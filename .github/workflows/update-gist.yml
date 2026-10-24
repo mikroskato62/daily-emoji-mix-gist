@@ -22,4 +22,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           GIST_ID: ${{ vars.GIST_ID }}
           GIST_FILENAME: ${{ vars.GIST_FILENAME }}
+          EMOJI_COUNT: ${{ vars.EMOJI_COUNT }}
+          TIMEZONE: ${{ vars.TIMEZONE }}
         run: node updater.mjs

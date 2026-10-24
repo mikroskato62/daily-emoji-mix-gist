@@ -1,0 +1,18 @@
+{
+  "gistTitle": "[{ordinal-date}] Today's Emojis ({iso-date})",
+  "gistFilename": "emojis.md",
+  "timeZone": "Etc/GMT-3",
+  "emojiCount": 51,
+  "rows": 3,
+  "columns": 17,
+  "columnSeparator": " ",
+  "rowSeparator": "\n",
+  "randomize": null,
+  "style": null,
+  "middleSpaces": null,
+  "layout": null,
+  "excludedGroups": [ "Flags" ],
+  "excludedSubgroups": [ "family", "person-role" ],
+  "emojiSourceUrl": "https://www.unicode.org/Public/emoji/latest/emoji-test.txt",
+  "maxEmojiVersion": 15.1
+}
